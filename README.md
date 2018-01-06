@@ -8,13 +8,17 @@ Have you found an Uncharted Isle? We'd love to hear about it.
 
 ## Documentation
 
-[scuttlebot.io](http://scuttlebot.io/) - has great details about sbot and ssb-client (and other modules)
+**scuttlebot**
+  - [scuttlebot.io](http://scuttlebot.io/) - has great details about sbot and ssb-client (and other modules)
+  - [ssbc.github.io](https://ssbc.github.io/docs) - a predecessor to scuttlebutt.io, much of the same content, has some other tutorials
 
-[ssbc.github.io](https://ssbc.github.io/docs) - a predecessor to scuttlebutt.io, much of the same content, has some other tutorials
+**scuttlebutt stack**
+  - scuttlebutt-protocol-guide - ([ssb](%gghZe88ZC2N18Zz44cn0/PE12eEJ+vyzOj6CW1QG4Ds=.sha256) | [github](https://github.com/vtduncan/scuttlebutt-protocol-guide) | [read online](https://vltf.org/scuttlebuttprotocolguide)) learn about the protocol with beautiful diagrams
+  - [scuttlebutt modules](https://www.scuttlebutt.nz/modules.html) - a great overview of modules organised by domain / stack-position
 
-[pull-stream.github.io](https://pull-stream.github.io/) - a guide to the pull-stream ecosystem (scuttlebut uses pull-streams extensively)
-
-[github.com/pull-stream/pull-stream-faq](https://github.com/pull-stream/pull-stream-faq) - a simple FAQ
+**pull-streams** 
+  - [pull-stream.github.io](https://pull-stream.github.io/) - a guide to the pull-stream ecosystem (scuttlebut uses pull-streams extensively)
+  - [github.com/pull-stream/pull-stream-faq](https://github.com/pull-stream/pull-stream-faq) - a simple FAQ
 
 
 ## Tutorials
@@ -24,7 +28,7 @@ Have you found an Uncharted Isle? We'd love to hear about it.
 Intro to Scuttlebutt
   - ssb-client - repo + video ([ssb](%DQVOkekw0Cx7bz0fcV8/WlWlBQHnpLw9LyYp7ctYC/0=.sha256) | [github](https://github.com/mixmix/ssb-client-intro)), learn how to connect to your databaseand do some streaming queries!
 
-Into to Mutant
+Intro to Mutant
   - Part 1 - [video](https://www.youtube.com/watch?v=UcHNobDImK0), introduces observeables with `Value`, and `when`. Make a part of the page toggle dynamically
   - Part 2 - [video](https://www.youtube.com/watch?v=KYiTYUvX5JM), introduces `computed` which takes in multiple observeables and makes a new observeable, and `Struct` (kind a like an observeable object with pre-defined keys). I focus a bit of refactoring and moving code around to give you an idea of what's possible.
 
@@ -49,10 +53,6 @@ _Mutant is a client side reactive library which is all about mutating the DOM. I
   - [example of mentioning blobs in a post](http://ssbc.github.io/docs/scuttlebot/howto-publish-a-file.html)
   - [set up a Pub Server manually](http://ssbc.github.io/docs/scuttlebot/howto-setup-a-pub.html) (an old guide)
 
-
-## Module guides
-
-[scuttlebutt.nz/modules.html](https://www.scuttlebutt.nz/modules.html) - a great overview of modules organised by domain / stack-position
 
 
 

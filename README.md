@@ -26,12 +26,12 @@ Have you found an Uncharted Isle? We'd love to hear about it.
 ### Videos
 
 Intro to Node
-  - video + repo ([ssb](%RQRdvrMM66kAScjCRdmXP0+6GCFkWpYIo2gN1dinax8=.sha256) | [github](https://www.github.com:mixmix/node-intro) - a rough intro to node
+  - video + repo ([ssb](%RQRdvrMM66kAScjCRdmXP0+6GCFkWpYIo2gN1dinax8=.sha256) | [github](https://www.github.com/mixmix/node-intro)) - a rough intro to node
 
 Intro to Scuttlebutt
   - `ssb-client` - repo + video ([ssb](%DQVOkekw0Cx7bz0fcV8/WlWlBQHnpLw9LyYp7ctYC/0=.sha256) | [github](https://github.com/mixmix/ssb-client-intro)), learn how to connect to your databaseand do some streaming queries!
-  - `flumedb` - repo + video ([ssb](%cC74FteCqofxOwZxIf7fqSeYVHFeXDTmKAQQaPudusY=.sha256) | [github](https://www.github.com:mixmix/flume-intro)), an intro to the database under scuttlebutt, about how to construct some _views_ (reduced versions of the database) for powerful lookups!
-  - `scuttlebot` plugins - repo ~~+ video~~ ([ssb](%f2PZYbacgJpNq4buNCVsjG6j55K8olw80QxPjF2Teqs=.sha256) | [github](https://www.github.com:mixmix/ssb-server-plugin-intro)) plug your `flumeview` into scuttlebot (I figured our what went wrong at the end of the flumedb video!)
+  - `flumedb` - repo + video ([ssb](%cC74FteCqofxOwZxIf7fqSeYVHFeXDTmKAQQaPudusY=.sha256) | [github](https://www.github.com/mixmix/flume-intro)), an intro to the database under scuttlebutt, about how to construct some _views_ (reduced versions of the database) for powerful lookups!
+  - `scuttlebot` plugins - repo ~~+ video~~ ([ssb](%f2PZYbacgJpNq4buNCVsjG6j55K8olw80QxPjF2Teqs=.sha256) | [github](https://www.github.com/mixmix/ssb-server-plugin-intro)) plug your `flumeview` into scuttlebot (I figured our what went wrong at the end of the flumedb video!)
 
 
 Intro to Mutant

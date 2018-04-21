@@ -13,7 +13,7 @@ Have you found an Uncharted Isle? We'd love to hear about it.
   - [ssbc.github.io](https://ssbc.github.io/docs) - a predecessor to scuttlebutt.io, much of the same content, has some other tutorials
 
 **scuttlebutt stack**
-  - scuttlebutt-protocol-guide - ([ssb](%gghZe88ZC2N18Zz44cn0/PE12eEJ+vyzOj6CW1QG4Ds=.sha256) | [github](https://github.com/vtduncan/scuttlebutt-protocol-guide) | [read online](https://vltf.org/scuttlebuttprotocolguide)) learn about the protocol with beautiful diagrams
+  - [scuttlebutt-protocol-guide](https://ssbc.github.io/scuttlebutt-protocol-guide/) - ([ssb](%gghZe88ZC2N18Zz44cn0/PE12eEJ+vyzOj6CW1QG4Ds=.sha256) | [github](https://github.com/ssbc/scuttlebutt-protocol-guide)) learn about the protocol with beautiful diagrams
   - [scuttlebutt modules](https://www.scuttlebutt.nz/modules.html) - a great overview of modules organised by domain / stack-position
 
 **pull-streams** 

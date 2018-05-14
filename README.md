@@ -44,6 +44,7 @@ _Mutant is a client side reactive library which is all about mutating the DOM. I
 ### Written
 
 [github.com/don-smith/ssb-tutorial](https://github.com/don-smith/ssb-tutorial) - a command line intro that uses docker to spin up several sbots and get them talking to each other.
+[github.com/kgibb8/scuttletron](https://github.com/KGibb8/scuttletron) - an electron app with integrated scuttlebot server for quickstart application development.
 
 ### Code snippets
 

@@ -56,7 +56,7 @@ _Mutant is a client side reactive library which is all about mutating the DOM. I
   - [publish a blob](http://scuttlebot.io/docs/advanced/publish-a-file.html) | [read a blob](http://scuttlebot.io/docs/advanced/read-a-file.html) (blobs are files / attachments)
   - many others
 
-[ssbc.github.io/scuttlebot/](http://ssbc.github.io/scuttlebot/) - (see HowTo Guides down side) more detail, but an odler reference
+[ssbc.github.io/ssb-server/](http://ssbc.github.io/ssb-server/) - (see HowTo Guides down side) more detail, but an odler reference
   - [post a message](http://ssbc.github.io/docs/scuttlebot/howto-publish-a-post.html) (includes examples of mentioning, channels etc.)
   - [update your profile](http://ssbc.github.io/docs/scuttlebot/howto-update-your-profile.html)
   - [example of mentioning blobs in a post](http://ssbc.github.io/docs/scuttlebot/howto-publish-a-file.html)
